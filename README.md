@@ -2,7 +2,7 @@
 Proxy service built for CF workers that surfaces page HEAD content.
 
 You can preview functionality at https://pnly.io/<URL_HERE>
-For example, if you wanted to share a link to the popular social media service, mastodon, on Twitter; you would paste the link to your mastodon instance at the end of the domain you deploy this worker to. Using the pnly.io worker URL, this would be: https://pnly.io/mastodon.social
+For example, if you wanted to share a link to the popular social media service, mastodon, you would paste the link to your mastodon instance at the end of the domain you deploy this worker to. Using the pnly.io worker URL, this would be: https://pnly.io/mastodon.social
 
 To create your own worker, simply download the source files for this repo and run `wrangler publish` in the top directory.
 
